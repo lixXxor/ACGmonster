@@ -1,0 +1,554 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_payload"
+			],
+			[
+				"deco",
+				"decode"
+			],
+			[
+				"yo",
+				"yourMessage"
+			],
+			[
+				"email",
+				"emailArray"
+			],
+			[
+				"atta",
+				"attachments"
+			],
+			[
+				"get_",
+				"get_content_charset"
+			],
+			[
+				"att",
+				"attachments"
+			],
+			[
+				"su",
+				"subj_fragments"
+			],
+			[
+				"enc",
+				"enc"
+			],
+			[
+				"the",
+				"theMessage"
+			],
+			[
+				"body",
+				"BODY"
+			],
+			[
+				"imap",
+				"imap_conn"
+			],
+			[
+				"raw",
+				"raw_email"
+			],
+			[
+				"aut",
+				"auth_string"
+			],
+			[
+				"em",
+				"emailService"
+			],
+			[
+				"soci",
+				"SOCIAL_AUTH_GOOGLE_PLUS_SCOPE"
+			],
+			[
+				"SOCIAL_",
+				"SOCIAL_AUTH_GOOGLE_PLUS_KEY"
+			],
+			[
+				"oau",
+				"oauth2String"
+			],
+			[
+				"u",
+				"utf-8"
+			],
+			[
+				"s",
+				"smtpserver"
+			],
+			[
+				"you",
+				"yourSender"
+			],
+			[
+				"YOUR",
+				"yourSender"
+			],
+			[
+				"current",
+				"currentSender"
+			],
+			[
+				"clien",
+				"clientId"
+			],
+			[
+				"client",
+				"client_id"
+			],
+			[
+				"ema",
+				"email"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"pro",
+				"profilePic"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"logout",
+				"logoutController"
+			],
+			[
+				"te",
+				"templateUrl"
+			],
+			[
+				"lo",
+				"login_required"
+			],
+			[
+				"googl",
+				"google_scope"
+			],
+			[
+				"EMAIL",
+				"EMAIL_HOST"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"logo",
+				"logout"
+			],
+			[
+				"g",
+				"g-signin"
+			],
+			[
+				"pl",
+				"plus_scope"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"C",
+				"ChoiceInline"
+			],
+			[
+				"pub",
+				"pub_date"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"border-rigth",
+				"border-right"
+			],
+			[
+				"font-",
+				"font-variant"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bord",
+				"border"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2318,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Mike/SkyDrive/Skola/TNCG14 - ACG/Projekt/index.html",
+		"/C/Users/Mike/SkyDrive/Skola/TNCG14 - ACG/Projekt/index.sublime-workspace",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/templates/emailclient/email.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/emailService.py",
+		"/C/Python34/Lib/site-packages/imapclient/imapclient.py",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/views.py",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/templates/emailclient/login.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/templates/emailclient/index.html",
+		"/E/python-social-auth-master/social/backends/google.py",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/oauth2.py",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/templates/emailclient/test.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/urls.py",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/myScript.js",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailwebsite/settings.py",
+		"/C/Python34/Lib/site-packages/python_social_auth-0.1.24_dev-py3.4.egg/social/apps/django_app/urls.py",
+		"/C/Python34/Lib/site-packages/python_social_auth-0.1.24_dev-py3.4.egg/social/backends/google.py",
+		"/C/Python34/Lib/site-packages/python_social_auth-0.1.24_dev-py3.4.egg/social/apps/django_app/default/admin.py",
+		"/C/Python34/Lib/site-packages/python_social_auth-0.1.24_dev-py3.4.egg/social/apps/django_app/default/fields.py",
+		"/C/Python34/Lib/site-packages/python_social_auth-0.1.24_dev-py3.4.egg/social/apps/django_app/default/tests.py",
+		"/C/Python34/Lib/site-packages/python_social_auth-0.1.24_dev-py3.4.egg/social/apps/django_app/default/models.py",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailwebsite/urls.py",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/manage.py",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/__pycache__/emailService.cpython-34.pyc",
+		"/C/Python34/Lib/site-packages/imapclient/imap_utf7.py",
+		"/C/Python34/Lib/site-packages/imapclient/response_lexer.py",
+		"/C/Python34/Lib/site-packages/imapclient/config.py",
+		"/C/Python34/Lib/site-packages/imapclient/examples/idle_example.py",
+		"/C/Python34/Lib/site-packages/imapclient/examples/example.py",
+		"/C/Python34/Lib/site-packages/imapclient/examples/oauth_example.py",
+		"/C/Python34/Lib/site-packages/imapclient/interact.py",
+		"/C/Python34/Lib/site-packages/imapclient/response_parser.py",
+		"/C/Python34/Lib/site-packages/imapclient/response_types.py",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/templates/emailclient/logout.html",
+		"/C/Python34/Tools/Scripts/google.py",
+		"/C/Python34/Lib/imaplib.py",
+		"/E/python-social-auth-master/social/actions.py",
+		"/E/python-social-auth-master/examples/django_example/example/app/views.py",
+		"/E/python-social-auth-master/examples/django_example/example/app/mail.py",
+		"/E/python-social-auth-master/examples/django_example/example/app/pipeline.py",
+		"/E/python-social-auth-master/examples/django_example/example/templates/done.html",
+		"/E/python-social-auth-master/examples/django_example/example/urls.py",
+		"/E/python-social-auth-master/examples/django_example/example/settings.py",
+		"/E/python-social-auth-master/social/apps/django_app/default/models.py",
+		"/E/python-social-auth-master/social/apps/django_app/default/fields.py",
+		"/E/python-social-auth-master/social/apps/django_app/views.py",
+		"/E/python-social-auth-master/social/apps/django_app/utils.py",
+		"/E/python-social-auth-master/social/apps/django_app/middleware.py",
+		"/E/python-social-auth-master/social/apps/django_app/context_processors.py",
+		"/E/python-social-auth-master/social/pipeline/social_auth.py",
+		"/E/python-social-auth-master/social/pipeline/disconnect.py",
+		"/E/python-social-auth-master/social/strategies/django_strategy.py",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/python-social-auth-master/social/apps/django_app/urls.py",
+		"/E/python-social-auth-master/social/utils.py",
+		"/E/python-social-auth-master/social/store.py",
+		"/E/python-social-auth-master/social/apps/django_app/me/models.py",
+		"/E/python-social-auth-master/social/pipeline/user.py",
+		"/E/python-social-auth-master/social/apps/django_app/me/tests.py",
+		"/E/python-social-auth-master/social/storage/django_orm.py",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/EmailWebpage.sublime-project",
+		"/E/python-social-auth-master/social/storage/base.py",
+		"/E/python-social-auth-master/social/backends/github.py",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/docs/partials/api/ng/function/angular.isUndefined.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/docs/img/angularjs-for-header-only.svg",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/i18n/angular-locale_he-il.js",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/i18n/angular-locale_ar-iq.js",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/docs/components/open-sans-fontface-1.0.4/fonts/Italic/OpenSans-Italic.svg",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/docs/components/google-code-prettify-1.0.1/styles/sons-of-obsidian.css",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/docs/partials/api/ngMock/object/angular.mock.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/docs/partials/api/ng/object/angular.version.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/docs/js/angular-bootstrap/bootstrap-prettify.js",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/docs/partials/api/ng/function/angular.toJson.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/docs/index-jquery.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/db.sqlite3",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/docs/partials/guide.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/docs/partials/error/ngOptions.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/docs/components/google-code-prettify-1.0.1/src/lang-go.js",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/i18n/angular-locale_gl-es.js",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/docs/components/google-code-prettify-1.0.1/src/prettify.css",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/docs/components/google-code-prettify-1.0.1/src/lang-apollo.js",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/static/emailclient/scripts/angularJS/docs/components/google-code-prettify-1.0.1/src/lang-lua.js",
+		"/E/python-social-auth-master/examples/django_example/example/templates/username_signup.html",
+		"/E/python-social-auth-master/examples/django_example/manage.py",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/templates/emailclient/angular_template.html",
+		"/E/python-social-auth-master/examples/django_example/example/app/models.py",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/models.py",
+		"/E/python-social-auth-master/examples/django_example/example/templates/home.html",
+		"/E/python-social-auth-master/examples/django_example/example/templates/validation_sent.html",
+		"/E/python-social-auth-master/examples/django_example/example/templates/email.html",
+		"/E/python-social-auth-master/examples/django_example/example/wsgi.py",
+		"/E/python-social-auth-master/examples/django_example/example/templates/base.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/index.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/prototype_Email.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/admin.py",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/templates/emailclient/prototype_Email.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailclient/GoogleAuth.py",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/index.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailclient/models.py",
+		"/C/Users/Mike/SkyDrive/Skola/TNM090 - PuM/RobotGame-master/frontend/webpage/main.html",
+		"/C/Users/Mike/SkyDrive/Skola/TNM090 - PuM/RobotGame-master/frontend/webpage/login.html",
+		"/C/Users/Mike/SkyDrive/Skola/TNM090 - PuM/RobotGame-master/frontend/webpage/garage.html",
+		"/C/Users/Mike/SkyDrive/Skola/TNM090 - PuM/RobotGame-master/frontend/webpage/logic.html",
+		"/C/Users/Mike/SkyDrive/Skola/TNM090 - PuM/RobotGame-master/frontend/webpage/connection.html",
+		"/C/Users/Mike/SkyDrive/Skola/TNM090 - PuM/RobotGame-master/frontend/webpage/js/globalVariables.js",
+		"/C/Users/Mike/SkyDrive/Skola/TNM090 - PuM/RobotGame-master/frontend/webpage/js/dbfunctions.js",
+		"/C/Users/Mike/SkyDrive/Skola/TNM090 - PuM/RobotGame-master/frontend/webpage/js/logic.js",
+		"/C/Users/Mike/SkyDrive/Skola/TNM090 - PuM/RobotGame-master/frontend/webpage/js/login.js",
+		"/C/Users/Mike/SkyDrive/Skola/TNM090 - PuM/RobotGame-master/frontend/webpage/js/popup.js",
+		"/C/Users/Mike/SkyDrive/Skola/TNM090 - PuM/RobotGame-master/frontend/webpage/js/garage.js",
+		"/C/Users/Mike/SkyDrive/Skola/TNM090 - PuM/RobotGame-master/frontend/webpage/battle.html",
+		"/C/Users/Mike/SkyDrive/Skola/TNM090 - PuM/RobotGame-master/frontend/webpage/js/storage.js",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/prototype_Email.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailwebsite/views.py",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/emailwebsite/emailwebsite/index.html",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/Google/Client.php",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/Google/Auth/Simple.php",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/myScript.js",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/prototype_Email",
+		"/C/Users/Mike/SkyDrive/Skola/TDDD27 - Avancerad Web/Project/tddd272014-emailwebpage/src/mystyle.css",
+		"/F/Dropbox/Dropbox/DRÄGG/TNM085/Wernis tuffe uffelåda/test_2/main.cpp",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/apache/codeIgniter/application/config/config.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"imapclient",
+			"msg",
+			"decode_utf7",
+			"body",
+			"adress",
+			"date",
+			"envelope",
+			"fetch",
+			"token",
+			"print",
+			"ok",
+			"head",
+			"<<",
+			"head",
+			"HEAD",
+			"});\n",
+			"\">\n",
+			")\n",
+			"disab",
+			"disconnect",
+			"')\n",
+			"index",
+			"setstate",
+			"set",
+			">\n",
+			"62686B"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ACGProjekt.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 432.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

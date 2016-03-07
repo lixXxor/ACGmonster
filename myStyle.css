@@ -1,0 +1,12 @@
+	body{
+		margin: 0px auto;
+	}
+
+	#menu{
+		position: absolute;
+		left: 90%;
+		z-index: 1;
+		background-color: #262626;
+		height: 50px;
+		width: 200px;
+	}
